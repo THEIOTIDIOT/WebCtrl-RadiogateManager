@@ -54,7 +54,7 @@ public class OUServlet extends HttpServlet{
 	
 	//  Database credentials
 	static final String USER = "postgres";
-	static final String PASS = "Es2_7176";
+	static final String PASS = "";
 	
 	public void setData(LinkedList<Register> regArray) {
 
